@@ -1,7 +1,6 @@
 -  Hi, I’m @YasmineAchiri
--  I’m interested in reading books and learning new things
--  I’m currently learning analysis data and academic physics
--  I have a plans to know all the basics in analysis data and get the oppurtunity to work in projects in the next OCTOBER
+-  I'm someone who doesn't like to be pushed back so I make sure to keep up with technology
+-  as a result I am interested now in learning software and AI engineerring
 
 <!---
 YasmineAchiri/YasmineAchiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
